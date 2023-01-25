@@ -1,0 +1,122 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [{
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SAM MEDNICK",
+            "title": "Families reunited following Russian retreat in Ukraine",
+            "description": "TSENTRALNE, Ukraine (AP) — Relatives embraced in the middle of the road. They squeezed hands and choked back tears. Others sobbed outside their homes. All had yearned for this same moment — to be reunited with their loved ones after Russian troops withdrew fr…",
+            "url": "https://apnews.com/603035884445099e5a62b077d23969a0",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1b776c1fb5c548eeba9ccee734ef4064/3000.jpeg",
+            "publishedAt": "2022-11-15T07:19:17Z",
+            "content": "TSENTRALNE, Ukraine (AP) — Relatives embraced in the middle of the road. They squeezed hands and choked back tears. Others sobbed outside their homes. All had yearned for this same moment — to be reu… [+4505 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Darren Franich",
+            "title": "Why was <em>Atlanta</em>'s finale so disappointing?",
+            "description": "Donald Glover’s series couldn’t rediscover its old magic, even if it stayed pretty funny (and pretty) till the end.",
+            "url": "https://ew.com/tv/tv-reviews/atlanta-series-finale-review/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C53%2C2000%2C1053&poi=%5B1000%2C313%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F11%2F14%2FAtlanta-111422_3.jpg",
+            "publishedAt": "2022-11-15T02:02:54Z",
+            "content": "There's nothing worse than explaining comedy, but the funniest moment in Atlanta's last season requires investigation. Darius (LaKeith Stanfield) visits a sensory deprivation tank and loses track of … [+9029 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "Long live the vibe capitalist!",
+            "description": "There is this myth that investors are risk averse. This isn’t true. They love taking risks. On white men. It’s part of the thrill.",
+            "url": "https://techcrunch.com/2022/11/14/long-live-the-vibe-capitalist/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/vibe-backers.jpg?resize=1200,645",
+            "publishedAt": "2022-11-14T22:36:28Z",
+            "content": "Last week, many investors were left with egg on their faces after FTX’s valuation went from $32 billion to zero in a New York minute. VCs were left wondering, “What the hell happened?” And they’re st… [+6304 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Cass Marshall",
+            "title": "RimWorld patch 1.4 lets you make the vampire cult of your dreams",
+            "description": "An upcoming RimWorld patch lets the BioTech and Ideology expansions interact, so players can have religions that hate (or love) child labor, vampires, and mechanoid labor.",
+            "url": "https://www.polygon.com/23457913/rimworld-biotech-ideology-patch-update-bloodfeeders-child-labor",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cf_lfzVz4UAowoYeeszvsh2UuXY=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24195337/ss_683f1d70121b506c292d8944228d5ff50c651922.jpg",
+            "publishedAt": "2022-11-14T16:02:26Z",
+            "content": "RimWorldis a sci-fi colony management game where everything can and will go wrong. The game has three expansions in Royalty, Ideology, and BioTech, the newest expansion. An upcoming patch will help t… [+1327 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ben Hayward",
+            "title": "Barcelona's Robert Lewandowski says it would be a dream to play with Lionel Messi",
+            "description": "Barcelona striker Robert Lewandowski has heaped praise on Lionel Messi and says he'd love to link up with the Argentine one day",
+            "url": "https://www.fourfourtwo.com/news/barcelonas-robert-lewandowski-says-it-would-be-a-dream-to-play-with-lionel-messi",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sVVYDN3Kb2oQg3RPFTEBmc-1200-80.jpg",
+            "publishedAt": "2022-11-13T20:15:04Z",
+            "content": "Barcelona striker Robert Lewandowski says it would be a 'dream' to play with Blaugrana legend Lionel Messi.\r\nMessi is currently in his second season at Paris Saint-Germain after leaving the Catalan c… [+1177 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Rani Molla",
+            "title": "Facebook layoffs are a reminder that your job won’t love you back",
+            "description": "After more than a decade of living their work, tech workers are being let go.",
+            "url": "https://www.vox.com/recode/2022/11/10/23451038/silicon-valley-layoffs-meta-facebook-jobs-work-identity",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xYPtKsQ7sRDwCQlKl2WbUXbaDmo=/0x520:4521x2887/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24184693/1244644942.jpg",
+            "publishedAt": "2022-11-10T19:50:00Z",
+            "content": "In a call with workers at Meta on Wednesday, founder and CEO Mark Zuckerberg told employees, Youve really put your heart and soul into this place, before laying off roughly 11,000 people. Meta is joi… [+5566 chars]"
+        },
+        {
+            "source": {
+                "id": "mtv-news",
+                "name": "MTV News"
+            },
+            "author": null,
+            "title": "ALEXANDER 23'S GENTLE MUSINGS ON THE AFTERSHOCK OF LOVE",
+            "description": null,
+            "url": "http://www.mtv.com/news/3188591/alexander-23-aftershock-interview/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-15T14:37:16.7603836Z",
+            "content": "Please update your browser to view the website."
+        },
+        {
+            "source": {
+                "id": "football-italia",
+                "name": "Football Italia"
+            },
+            "author": "Football Italia Staff",
+            "title": "Donnarumma and Milan: a controversial love story",
+            "description": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club&#39;s return to the Champions League.",
+            "url": "http://www.football-italia.net/171170/donnarumma-and-milan-controversial-love-story",
+            "urlToImage": "https://www.football-italia.net/sites/default/files/imagecache/main_photo/[type]/[nid]/Donnarumma-1912-yay-epa_1_12.jpg",
+            "publishedAt": "2021-05-25T01:00:00Z",
+            "content": "The story began when Gigio Donnarumma followed his heart and signed with Milan and it could end with the club's return to the Champions League.\r\nThe Italy international helped Milan secure a place in… [+3001 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Nadia Drake",
+            "title": "How these feuding map-makers shaped our fascination with Mars",
+            "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+            "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+            "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+            "publishedAt": "2021-02-17T14:37:21.3706142Z",
+            "content": null
+        }
+    ]
+}
